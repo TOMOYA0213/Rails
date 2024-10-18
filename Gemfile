@@ -1,6 +1,10 @@
 source "https://rubygems.org"
 
 gem 'bootstrap-sass', '3.4.1'
+gem 'turbo-rails'
+gem 'uglifier',     '3.2.0'
+gem 'coffee-rails', '4.2.2'
+gem 'jquery-rails', '4.3.1'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.2.1"
@@ -60,8 +64,10 @@ group :test do
 
 
   gem 'rails-controller-testing', '1.0.3'
-  gem 'minitest',                 '5.10.3'
-  gem 'minitest-reporters',       '1.1.14'
+  #gem 'minitest',                 '5.10.3'
+  gem 'minitest', '~> 5.18'
+  #gem 'minitest-reporters',       '1.1.14'
+  gem 'minitest-reporters', '~> 1.4'
   gem 'guard',                    '2.16.2'
   gem 'guard-minitest',           '2.4.4'
 
