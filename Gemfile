@@ -9,6 +9,9 @@ gem 'jquery-rails', '4.3.1'
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.2.1"
 gem 'bcrypt',         '3.1.12'
+gem 'faker', '>= 2.0'
+gem 'will_paginate', '~> 3.3'
+gem 'bootstrap-will_paginate', '1.0.0'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 # Use sqlite3 as the database for Active Record
