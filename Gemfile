@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem 'bootstrap-sass', '3.4.1'
 gem 'turbo-rails'
 gem 'uglifier',     '3.2.0'
-gem 'coffee-rails', '4.2.2'
+gem 'coffee-rails', '5.0.0'
 gem 'jquery-rails', '4.3.1'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
