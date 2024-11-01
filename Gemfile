@@ -72,7 +72,7 @@ group :test do
   gem "selenium-webdriver"
 
 
-  gem 'rails-controller-testing', '1.0.3'
+  gem 'rails-controller-testing', '1.0.5'
   #gem 'minitest',                 '5.10.3'
   gem 'minitest', '~> 5.18'
   #gem 'minitest-reporters',       '1.1.14'
