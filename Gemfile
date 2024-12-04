@@ -16,7 +16,7 @@ gem 'carrierwave' , "3.0.7"
 gem 'mini_magick'
 
 
-gem 'will_paginate', '~> 3.3'
+gem 'will_paginate', '~> 4.0'
 gem 'bootstrap-will_paginate', '1.0.0'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
