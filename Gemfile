@@ -8,7 +8,7 @@ gem 'jquery-rails', '4.3.1'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.2.1"
-gem 'bcrypt',         '3.1.12'
+gem 'bcrypt',         '3.1.20'
 gem 'faker', '>= 2.0'
 
 
