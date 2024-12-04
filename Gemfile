@@ -78,7 +78,7 @@ group :test do
   #gem 'minitest-reporters',       '1.1.14'
   gem 'minitest-reporters', '~> 1.4'
   gem 'guard',                    '2.16.2'
-  gem 'guard-minitest',           '2.4.4'
+  gem 'guard-minitest',           '2.4.6'
 
 
 end
